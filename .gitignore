@@ -1,10 +1,10 @@
 ECHO is on.
 
 ##local files
-".venv/"
-"CSV_PrepRoom/"
-"CSV_Warehouse/"
-"data_dictionaries/"
+.venv/
+CSV_PrepRoom/
+CSV_Warehouse/
+data_dictionaries/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
