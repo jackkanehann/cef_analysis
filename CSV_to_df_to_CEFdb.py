@@ -2,9 +2,9 @@ import pandas as pd
 import sqlite3
 
 # Define file and table names
-csv_file = "NUV.csv"
+csv_file = "BTT.csv"
 db_file = 'CEF_database.db'
-table_name = 'NUV_table'
+table_name = 'BTT_table'
 
 try:
     # 1. Read the CSV file into a pandas DataFrame
